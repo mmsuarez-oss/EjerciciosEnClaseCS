@@ -1,0 +1,14 @@
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.exe
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.deps.json
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.runtimeconfig.json
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\bin\Debug\net10.0\while1.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.AssemblyInfoInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.AssemblyInfo.cs
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.csproj.CoreCompileInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\refint\while1.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\while1.genruntimeconfig.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\while1\obj\Debug\net10.0\ref\while1.dll
