@@ -1,0 +1,15 @@
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\bin\Debug\net10.0\SumaArreglo.exe
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\bin\Debug\net10.0\SumaArreglo.deps.json
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\bin\Debug\net10.0\SumaArreglo.runtimeconfig.json
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\bin\Debug\net10.0\SumaArreglo.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\bin\Debug\net10.0\SumaArreglo.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.AssemblyInfoInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.AssemblyInfo.cs
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.csproj.CoreCompileInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.sourcelink.json
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\refint\SumaArreglo.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\SumaArreglo.genruntimeconfig.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\SumaArreglo\obj\Debug\net10.0\ref\SumaArreglo.dll
