@@ -1,0 +1,15 @@
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.exe
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.deps.json
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.runtimeconfig.json
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\bin\Debug\net10.0\ProductoEscalar.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.AssemblyInfoInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.AssemblyInfo.cs
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.csproj.CoreCompileInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.sourcelink.json
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\refint\ProductoEscalar.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ProductoEscalar.genruntimeconfig.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\ProductoEscalar\obj\Debug\net10.0\ref\ProductoEscalar.dll

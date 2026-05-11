@@ -1,0 +1,15 @@
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\bin\Debug\net10.0\VectorMagnitud.exe
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\bin\Debug\net10.0\VectorMagnitud.deps.json
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\bin\Debug\net10.0\VectorMagnitud.runtimeconfig.json
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\bin\Debug\net10.0\VectorMagnitud.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\bin\Debug\net10.0\VectorMagnitud.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.AssemblyInfoInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.AssemblyInfo.cs
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.csproj.CoreCompileInputs.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.sourcelink.json
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\refint\VectorMagnitud.dll
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.pdb
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\VectorMagnitud.genruntimeconfig.cache
+C:\Users\matis\Desktop\Grupo6ProgCS\VectorMagnitud\obj\Debug\net10.0\ref\VectorMagnitud.dll
